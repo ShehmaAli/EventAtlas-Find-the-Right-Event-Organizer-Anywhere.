@@ -86,9 +86,10 @@ EventAtlas/
 ├── organizers.txt
 │
 ├── templates/
+|   ├── home.html
 │   ├── index.html
-│   ├── search.html
-│   └── results.html
+│   ├── about.html
+│   ├── contact.html
 │
 ├── static/
 │   ├── style.css
