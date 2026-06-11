@@ -1,5 +1,5 @@
-# 🎉 EventAtlas
-### Find the Right Event Organizer, Anywhere.
+# 🎉 EventIQ
+### Find the Right Event Organiser, Anywhere.
 
 ![Python](https://img.shields.io/badge/Python-Backend-blue)
 ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-black)
@@ -11,16 +11,16 @@
 
 ## 📖 Overview
 
-EventAtlas is a web-based event organizer discovery platform developed as a CIP-6 Final Project. The system allows users to search for event organizers based on country and event type, making it easier to find suitable organizers for weddings, corporate events, birthdays, conferences, concerts, and other occasions.
+EventIQ is a web-based event organiser discovery platform developed as a CIP-6 Final Project. The system allows users to search for event organisers based on country and event type, making it easier to find suitable organisers for weddings, corporate events, birthdays, conferences, concerts, and other occasions.
 
-The platform provides a centralized and user-friendly solution for discovering event organizers without the need to browse multiple websites or directories.
+The platform provides a centralised and user-friendly solution for discovering event organisers without the need to browse multiple websites or directories.
 
 ---
 
 ## 🎯 Project Objectives
 
-- Simplify the process of finding event organizers.
-- Provide quick access to organizer information.
+- Simplify the process of finding event organisers.
+- Provide quick access to organiser information.
 - Demonstrate practical web development skills using Python and Flask.
 - Create a user-friendly and responsive search experience.
 - Apply programming concepts to solve a real-world problem.
@@ -30,11 +30,11 @@ The platform provides a centralized and user-friendly solution for discovering e
 ## ✨ Features
 
 ### 🔍 Smart Search System
-- Search organizers by country.
-- Search organizers by event type.
-- Display matching organizer records instantly.
+- Search organisers by country.
+- Search organisers by event type.
+- Display matching organiser records instantly.
 
-### 📋 Organizer Information
+### 📋 Organiser Information
 - Organizer Name
 - Event Type
 - Country
@@ -47,7 +47,7 @@ The platform provides a centralized and user-friendly solution for discovering e
 
 ### ⚡ Fast Performance
 - Efficient filtering and searching.
-- Quick retrieval of organizer records.
+- Quick retrieval of organiser records.
 
 ---
 
@@ -80,7 +80,7 @@ The platform provides a centralized and user-friendly solution for discovering e
 ## 📂 Project Structure
 
 ```text
-EventAtlas/
+EventIQ/
 │
 ├── app.py
 ├── organizers.txt
@@ -104,13 +104,13 @@ EventAtlas/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/EventAtlas.git
+git clone https://github.com/yourusername/EventIQ.git
 ```
 
 ### 2. Navigate to the Project Folder
 
 ```bash
-cd EventAtlas
+cd EventIQ
 ```
 
 ### 3. Install Flask
@@ -135,7 +135,7 @@ http://127.0.0.1:5000
 
 ## 💡 How It Works
 
-1. User visits the EventAtlas website.
+1. User visits the EventIQ website.
 2. User selects a search category.
 3. User enters a country or event type.
 4. Flask processes the request.
@@ -173,13 +173,13 @@ http://127.0.0.1:5000
 
 ## 🌟 Significance of the Project
 
-EventAtlas demonstrates how technology can simplify event planning by connecting users with event organizers through a centralized platform. The project combines web development and programming concepts to create a practical solution for a common real-world problem.
+EventIQ demonstrates how technology can simplify event planning by connecting users with event organizers through a centralized platform. The project combines web development and programming concepts to create a practical solution for a common real-world problem.
 
 ---
 
 ## 👨‍💻 Developer Information
 
-**Project:** EventAtlas  
+**Project:** EventIQ  
 **Type:** CIP-6 Final Project  
 **Technology Stack:** Python, Flask, HTML, CSS  
 **Version:** 1.0
